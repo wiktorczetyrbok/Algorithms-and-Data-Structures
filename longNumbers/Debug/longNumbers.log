@@ -1,3 +1,0 @@
-﻿  Source.cpp
-C:\Users\User\source\repos\longNumbers\longNumbers\Source.cpp(13,2): warning C4091: 'typedef ': ignored on left of 'Nums' when no variable is declared
-  longNumbers.vcxproj -> C:\Users\User\source\repos\longNumbers\Debug\longNumbers.exe
