@@ -1,21 +1,12 @@
-# Sorting-infinite-numbers-quick-sort
-<h2>Input:</h2>
-8<br/>
--1<br/>
-13<br/>
-27<br/>
-328<br/>
-111<br/>
-25<br/>
-1267484339579219017509008125326<br/>
--1111111111111111111111111111111111<br/>
+# C++ Source Files for Various Algorithms and Data Structures
 
-<h2>Output:</h2>
--1111111111111111111111111111111111<br/>
--1<br/>
-13<br/>
-25<br/>
-27<br/>
-111<br/>
-328<br/>
-1267484339579219017509008125326<br/>
+This repository contains C++ source code files for various algorithms and data structures. The following algorithms and data structures are currently included:
+
+- Binary Search Tree
+- Cache List
+- Hashtable
+- Heap Queue
+- Linked List (LIFO)
+- Partitions
+- Position in a Sequence (Binary Search)
+- Quick Sort of Infinite Numbers
